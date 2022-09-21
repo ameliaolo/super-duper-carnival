@@ -1,10 +1,14 @@
+let eyex = 175;
+let eyey = 220;
+let midxy = 200;
+
 fill('#323E40');
-ellipse(200, 200, 100);
-triangle(170, 175, 190, 220, 160, 220);
-triangle(220, 175, 240, 220, 210, 220);
+ellipse(midxy, midxy, 100);
+triangle(170, eyex, 190, eyey, 160, 220);
+triangle(220, eyex, 240, eyey, 210, 220);
 fill('#000000');
-circle(175, 200, 20);
+circle(175, midxy, 20);
 fill('#000000');
-circle(225, 200, 20);
+circle(225, midxy, 20);
 fill('#F2A922');
-triangle(175, 200, 225, 200, 200, 215);
+triangle(175, midxy, 225, midxy, 200, 215);
