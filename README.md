@@ -1,5 +1,5 @@
 # super-duper-carnival
-programming for design assignment
+programming for design assignment notes
 
 I'm so sorry for the late submission. I misread the submission date and for the past week. I honestly have not been able to sit down at all because of work and other personal things that I've been trying to sort out amongst that.
 
