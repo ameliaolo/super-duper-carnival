@@ -12,6 +12,8 @@ addEventListener("mousemove", (e) => {
   cursor.y = e.clientY;
 });
 
+// adding a variable to mouse movement so when you move your mouse there will be a responsive responce (?) regarding the movement
+
 addEventListener(
   "touchmove",
   (e) => {
@@ -21,3 +23,5 @@ addEventListener(
   },
   { passive: false }
 );
+
+// adding a variable to touch move, which is similar to the mouse movement
